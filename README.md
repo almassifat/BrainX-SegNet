@@ -10,7 +10,7 @@ Official implementation of **BrainX-SegNet**, a unified multi-task framework for
 
 ## 📌 Architecture Overview
 
-![BrainX-SegNet Architecture](BrainX_Architecture.jpg)
+![BrainX-SegNet Architecture](./BrainX_Architecture.jpg)
 
 *Fig 1. Architecture of the proposed BrainX-SegNet, integrating CNN encoding, CBAM, Transformer-based context modelling, segmentation, and soft-mask-guided tumour classification[cite: 1].*
 
